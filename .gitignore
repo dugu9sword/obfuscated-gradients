@@ -1,3 +1,5 @@
 cifar10_data/
 cifar10_data.tgz
 models/
+**/__pycache__/**
+**/.ipynb_checkpoints
